@@ -56,3 +56,12 @@ Based on the output and visualizations, we can draw the following inferences:
 This model can be used to make informed decisions regarding advertising costs, optimize advertising strategies, and predict future sales based on advertising expenditures.
 
 The code and analysis provided here serve as the foundation for a comprehensive sales prediction report, allowing businesses to make data-driven decisions and maximize their sales potential.
+
+# TASK 5
+
+# CREDIT CARD FRAUD DETECTION
+
+Build a machine learning model to identify fraudulent credit card transactions.
+
+Preprocess and normalize the transaction data, handle class imbalance issues, and split the dataset into training and testing sets. Train a classification algorithm, such as logistic regression or random
+forests, to classify transactions as fraudulent or genuine. Evaluate the model's performance using metrics like precision, recall, and F1-score, and consider techniques like oversampling or undersampling for improving results.
